@@ -1,2 +1,4 @@
 
 node_example/kokiljaidka.env
+yarn.lock
+node_modules/.yarn-integrity
